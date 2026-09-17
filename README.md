@@ -92,7 +92,7 @@ g++ C++\ Basics/FloydTriangle.cpp -o FloydTriangle
 Run a Python script:
 
 ```bash
-python "C++ Basics/bakchodi.py"
+python "C++ Basics/pattern7.py"
 ```
 
 ## Summary
